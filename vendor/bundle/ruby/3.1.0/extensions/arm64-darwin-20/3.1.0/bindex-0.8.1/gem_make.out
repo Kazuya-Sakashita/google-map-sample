@@ -1,0 +1,15 @@
+current directory: /Users/sakashitakazuya/Desktop/work/samurai/QA/20230805/google-map-sample/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/sakashitakazuya/.rbenv/versions/3.1.4/bin/ruby -I /Users/sakashitakazuya/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/sakashitakazuya/Desktop/work/samurai/QA/20230805/google-map-sample/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230805-10997-smtled sitelibdir\=./.gem.20230805-10997-smtled clean
+
+current directory: /Users/sakashitakazuya/Desktop/work/samurai/QA/20230805/google-map-sample/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230805-10997-smtled sitelibdir\=./.gem.20230805-10997-smtled
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/sakashitakazuya/Desktop/work/samurai/QA/20230805/google-map-sample/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230805-10997-smtled sitelibdir\=./.gem.20230805-10997-smtled install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230805-10997-smtled/skiptrace/internal
